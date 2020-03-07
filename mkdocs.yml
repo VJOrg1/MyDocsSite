@@ -1,0 +1,6 @@
+site_name: My First document
+nav:
+    - Home: index.md
+    - About: about.md
+    - Linkedin : linkedin.md
+theme: readthedocs
